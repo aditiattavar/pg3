@@ -1,1 +1,1 @@
-prinrt("Hey :)")
+print("Hey :)")
